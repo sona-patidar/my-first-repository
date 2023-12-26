@@ -1,2 +1,2 @@
 # my-first-repository
-my name is sona patidr
+my name is sona patidar
